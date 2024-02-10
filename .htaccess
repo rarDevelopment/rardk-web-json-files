@@ -2,6 +2,6 @@
     SetEnvIf Origin "http(s)?://(www\.)?(rardk.com)$" AccessControlAllowOrigin=$0
     Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
     Header merge Vary Origin
-    Header set Access-Control-Allow-Methods: "GET, POST, OPTIONS, DELETE, PUT"
+    Header set Access-Control-Allow-Methods: "GET"
     Header set Access-Control-Allow-Headers: "Content-Type"
 </IfModule>
