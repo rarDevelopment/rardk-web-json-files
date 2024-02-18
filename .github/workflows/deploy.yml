@@ -1,11 +1,11 @@
-name: 🛠️ Build and Deploy
+name: 🛠️ Upload via FTP
 on:
   push:
     branches:
       - main
 jobs:
   deploy:
-    name: 🚀 Deploy via FTP
+    name: 🚀 Upload via FTP
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
