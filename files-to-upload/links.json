@@ -38,5 +38,13 @@
     "dateShared": "2024-02-14T00:02:03-05:00",
     "guid": "A330F736-55FB-4630-8AEB-47EFF0443677",
     "slug": "own-your-web-issue-1-your-superpower-buttondown"
+  },
+  {
+    "title": "Sorting Git branches",
+    "description": "Cassidy Williams shares a quick post on how to sort git branches, something I'd never even thought to look into despite definitely needing sometimes!",
+    "link": "https://blog.cassidoo.co/post/sort-git-branch/",
+    "dateShared": "2024-02-20T01:45:51-05:00",
+    "guid": "A3AB536E-AFE6-4828-A5FE-D51D1DC73851",
+    "slug": "sorting-git-branches"
   }
 ]
