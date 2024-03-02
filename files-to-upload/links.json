@@ -54,5 +54,13 @@
     "dateShared": "2024-02-25T10:10:50-05:00",
     "guid": "4A3C75FA-B131-424C-83E6-FACB51676B5F",
     "slug": "old-games-consoles-aren-t-redundant"
+  },
+  {
+    "title": "RsS iS dEaD LOL",
+    "description": "This utility lets you enter your Fediverse handle and find RSS feeds in your network. Very simple and clean UI, and super useful if you're looking for some more feeds for your RSS reader.",
+    "link": "https://rss-is-dead.lol/",
+    "dateShared": "2024-03-01T23:43:14-05:00",
+    "guid": "A386E108-4ED5-4BD2-999B-E9EF61A335EB",
+    "slug": "rss-is-dead-lol"
   }
 ]
