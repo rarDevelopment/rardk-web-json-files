@@ -62,5 +62,13 @@
     "dateShared": "2024-03-01T23:43:14-05:00",
     "guid": "A386E108-4ED5-4BD2-999B-E9EF61A335EB",
     "slug": "rss-is-dead-lol"
+  },
+  {
+    "title": "Base CSS for your text-based pages",
+    "description": "Cassidy Williams offers a simple block of CSS that makes a barebones website look nice without having to do a bunch of custom fancy styles.",
+    "link": "https://blog.cassidoo.co/post/base-css/",
+    "dateShared": "2024-03-03T18:18:02-05:00",
+    "guid": "A596A389-2B6C-4909-A2C9-36F6EA9E5C88",
+    "slug": "base-css-for-your-text-based-pages"
   }
 ]
