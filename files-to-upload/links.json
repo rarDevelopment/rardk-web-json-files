@@ -70,5 +70,13 @@
     "dateShared": "2024-03-03T18:18:02-05:00",
     "guid": "A596A389-2B6C-4909-A2C9-36F6EA9E5C88",
     "slug": "base-css-for-your-text-based-pages"
+  },
+  {
+    "title": "How HEAD works in git",
+    "description": "A crystal clear explanation of how HEAD works in git. I think this can get glossed over by many regular users, so it's good to have an understanding of it.",
+    "link": "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/",
+    "dateShared": "2024-03-25T10:02:04-04:00",
+    "guid": "131494E5-09E1-4224-8AF2-590925F1485A",
+    "slug": "how-head-works-in-git"
   }
 ]
