@@ -78,5 +78,13 @@
     "dateShared": "2024-03-25T10:02:04-04:00",
     "guid": "131494E5-09E1-4224-8AF2-590925F1485A",
     "slug": "how-head-works-in-git"
+  },
+  {
+    "title": "A Temporary Design",
+    "description": "Dave Plummer designed a temporary Format dialog for Windows 30 years ago, and it hasn't been changed yet! Here's a tweet thread with the story.",
+    "link": "https://x.com/davepl1968/status/1772042158046146792?s=12",
+    "dateShared": "2024-03-26T18:29:54-04:00",
+    "guid": "846FB5EC-7077-4CFA-8D65-C8A2831E7B51",
+    "slug": "temporary-format-dialog-design"
   }
 ]
