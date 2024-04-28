@@ -198,7 +198,7 @@
   {
     "name": "Donkey Kong's Tree House Expansion Set",
     "owned": true,
-    "built": false,
+    "built": true,
     "series": "Super Mario",
     "url": "https://www.lego.com/en-ca/product/donkey-kong-s-tree-house-expansion-set-71424"
   },
@@ -208,5 +208,12 @@
     "built": false,
     "series": "Star Wars",
     "url": "https://www.lego.com/en-ca/product/the-mandalorian-n-1-starfighter-microfighter-75363"
+  },
+  {
+    "name": "Dixie Kong's Jungle Jam Expansion Set",
+    "owned": true,
+    "built": true,
+    "series": "Super Mario",
+    "url": "https://www.lego.com/en-ca/product/dixie-kong-s-jungle-jam-expansion-set-71421"
   }
 ]
