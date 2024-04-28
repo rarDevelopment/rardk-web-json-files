@@ -48,11 +48,51 @@
     "slug": "sorting-git-branches"
   },
   {
-    "title": "Old games consoles aren’t redundant – I think they’re a fantastic must-buy | Stuff",
+    "title": "Old games consoles aren't redundant - I think they're a fantastic must-buy | Stuff",
     "description": "Craig Grannell on the benefits of buying and owning game consoles past their 'prime'. I wholeheartedly agree. @craiggrannell",
     "link": "https://www.stuff.tv/features/old-games-consoles-arent-redundant-i-think-theyre-a-boon/",
     "dateShared": "2024-02-25T10:10:50-05:00",
     "guid": "4A3C75FA-B131-424C-83E6-FACB51676B5F",
     "slug": "old-games-consoles-aren-t-redundant"
+  },
+  {
+    "title": "RSS iS dEaD LOL",
+    "description": "This utility lets you enter your Fediverse handle and find RSS feeds in your network. Very simple and clean UI, and super useful if you're looking for some more feeds for your RSS reader.",
+    "link": "https://rss-is-dead.lol/",
+    "dateShared": "2024-03-01T23:43:14-05:00",
+    "guid": "A386E108-4ED5-4BD2-999B-E9EF61A335EB",
+    "slug": "rss-is-dead-lol"
+  },
+  {
+    "title": "Base CSS for your text-based pages",
+    "description": "Cassidy Williams offers a simple block of CSS that makes a barebones website look nice without having to do a bunch of custom fancy styles.",
+    "link": "https://blog.cassidoo.co/post/base-css/",
+    "dateShared": "2024-03-03T18:18:02-05:00",
+    "guid": "A596A389-2B6C-4909-A2C9-36F6EA9E5C88",
+    "slug": "base-css-for-your-text-based-pages"
+  },
+  {
+    "title": "How HEAD works in git",
+    "description": "A crystal clear explanation of how HEAD works in git. I think this can get glossed over by many regular users, so it's good to have an understanding of it.",
+    "link": "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/",
+    "dateShared": "2024-03-25T10:02:04-04:00",
+    "guid": "131494E5-09E1-4224-8AF2-590925F1485A",
+    "slug": "how-head-works-in-git"
+  },
+  {
+    "title": "A Temporary Design",
+    "description": "Dave Plummer designed a temporary Format dialog for Windows 30 years ago, and it hasn't been changed yet! Here's a tweet thread with the story.",
+    "link": "https://x.com/davepl1968/status/1772042158046146792?s=12",
+    "dateShared": "2024-03-26T18:29:54-04:00",
+    "guid": "846FB5EC-7077-4CFA-8D65-C8A2831E7B51",
+    "slug": "temporary-format-dialog-design"
+  },
+  {
+    "title": "If this one guy got hit by a bus, the world's software would fall apart.",
+    "description": "The sheer amount of software and services that exist while depending on the thankless, volunteer work of individuals or tiny teams is terrifying.",
+    "link": "https://lunduke.locals.com/post/5477752/if-this-one-guy-got-hit-by-a-bus-the-worlds-software-would-fall-apart",
+    "dateShared": "2024-04-15T11:28:46-04:00",
+    "guid": "50E1988B-F267-4739-997D-2A5F94E74B82",
+    "slug": "if-this-one-guy-got-hit-by-a-bus-the-world-s-software-would-fall-apart-"
   }
 ]
