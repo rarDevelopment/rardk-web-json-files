@@ -208,5 +208,26 @@
     "built": false,
     "series": "Star Wars",
     "url": "https://www.lego.com/en-ca/product/the-mandalorian-n-1-starfighter-microfighter-75363"
+  },
+  {
+    "name": "Medieval Town Square",
+    "owned": false,
+    "built": false,
+    "series": "Icons",
+    "url": "https://www.lego.com/en-ca/product/medieval-town-square-10332"
+  },
+  {
+    "name": "Alpine Lodge",
+    "owned": false,
+    "built": false,
+    "series": "Icons",
+    "url": "https://www.lego.com/en-ca/product/alpine-lodge-10325"
+  },
+  {
+    "name": "Nook's Cranny & Rosie's House",
+    "owned": false,
+    "built": false,
+    "series": "Animal Crossing",
+    "url": "https://www.lego.com/en-ca/product/nook-s-cranny-rosie-s-house-77050"
   }
 ]
