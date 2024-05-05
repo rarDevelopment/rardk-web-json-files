@@ -236,5 +236,19 @@
     "built": false,
     "series": "Animal Crossing",
     "url": "https://www.lego.com/en-ca/product/nook-s-cranny-rosie-s-house-77050"
+  },
+  {
+    "name": "Tranquil Garden",
+    "owned": false,
+    "built": false,
+    "series": "Icons",
+    "url": "https://www.lego.com/en-ca/product/tranquil-garden-10315"
+  },
+  {
+    "name": "Tree House",
+    "owned": false,
+    "built": false,
+    "series": "Icons",
+    "url": "https://www.lego.com/en-ca/product/tree-house-21318"
   }
 ]
