@@ -169,7 +169,7 @@
   },
   {
     "name": "PAC-MAN Arcade",
-    "owned": false,
+    "owned": true,
     "built": false,
     "series": "Icons",
     "url": "https://www.lego.com/en-ca/product/pac-man-arcade-10323"
