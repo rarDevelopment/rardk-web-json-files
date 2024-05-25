@@ -17,14 +17,14 @@
     "name": "The Flintstones",
     "owned": true,
     "built": true,
-    "series": "Ideas - Flintstones",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/the-flintstones-21316"
   },
   {
     "name": "Central Perk",
     "owned": true,
     "built": true,
-    "series": "Ideas - Friends",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/central-perk-21319"
   },
   {
@@ -73,7 +73,7 @@
     "name": "Pirates of Barracuda Bay",
     "owned": true,
     "built": false,
-    "series": "Ideas - Pirates",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/pirates-of-barracuda-bay-21322"
   },
   {
@@ -101,7 +101,7 @@
     "name": "Medieval Blacksmith",
     "owned": true,
     "built": false,
-    "series": "Ideas - Medieval",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/medieval-blacksmith-21325"
   },
   {
@@ -115,7 +115,7 @@
     "name": "Seinfeld",
     "owned": true,
     "built": true,
-    "series": "Ideas - Seinfeld",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/seinfeld-21328"
   },
   {
@@ -129,7 +129,7 @@
     "name": "Sonic the Hedgehog - Green Hill Zone",
     "owned": true,
     "built": true,
-    "series": "Ideas - Sonic",
+    "series": "Ideas",
     "url": "https://www.lego.com/en-ca/product/sonic-the-hedgehog-green-hill-zone-21331"
   },
   {
@@ -271,5 +271,19 @@
     "built": false,
     "series": "Animal Crossing",
     "url": "https://www.lego.com/en-ca/product/k-k-s-concert-at-the-plaza-77052"
+  },
+  {
+    "name": "Jazz Club",
+    "owned": false,
+    "built": false,
+    "series": "Icons",
+    "url": "https://www.lego.com/en-ca/product/jazz-club-10312"
+  },
+  {
+    "name": "Viking Village",
+    "owned": false,
+    "built": false,
+    "series": "Ideas",
+    "url": "https://www.lego.com/en-ca/product/viking-village-21343"
   }
 ]
