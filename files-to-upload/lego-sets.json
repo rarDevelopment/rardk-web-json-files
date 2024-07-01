@@ -253,15 +253,15 @@
   },
   {
     "name": "Jungle Explorer ATV Red Panda Mission",
-    "owned": false,
+    "owned": true,
     "built": false,
     "series": "City",
     "url": "https://www.lego.com/en-ca/product/jungle-explorer-atv-red-panda-mission-60424"
   },
   {
     "name": "Burger Truck",
-    "owned": false,
-    "built": false,
+    "owned": true,
+    "built": true,
     "series": "City",
     "url": "https://www.lego.com/en-ca/product/burger-truck-60404"
   },
