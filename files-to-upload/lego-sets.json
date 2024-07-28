@@ -292,5 +292,20 @@
     "built": false,
     "series": "The Legend of Zelda",
     "url": "https://www.lego.com/en-ca/product/great-deku-tree-2-in-1-77092"
+  },
+  {
+    "name": "Diddy Kong's Mine Cart Ride Expansion Set",
+    "owned": true,
+    "built": false,
+    "series": "Super Mario",
+    "url": "https://www.lego.com/en-ca/product/diddy-kong-s-mine-cart-ride-expansion-set-71425"
+  },
+  {
+    "name": "Super Mario World: Mario & Yoshi",
+    "owned": false,
+    "built": false,
+    "series": "Super Mario",
+    "url": "https://www.lego.com/en-ca/product/super-mario-world-mario-yoshi-71438"
   }
+  
 ]
